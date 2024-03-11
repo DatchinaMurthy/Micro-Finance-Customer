@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.settings
+/target/
+*.iml
+.idea
+lombok.config
+compiler.xml
+encodings.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
